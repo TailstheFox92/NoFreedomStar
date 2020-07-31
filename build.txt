@@ -1,0 +1,3 @@
+displayName = Tails' proof of concept stuff
+author = TailstheFox92
+version = 0.1
